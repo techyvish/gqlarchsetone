@@ -1,4 +1,4 @@
-module github.com/techyvish/gqlarchsetone/graph
+module github.com/techyvish/gqlarchsetone
 
 go 1.13
 
